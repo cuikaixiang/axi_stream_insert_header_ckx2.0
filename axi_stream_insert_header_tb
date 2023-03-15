@@ -1,5 +1,5 @@
 `timescale 1ns / 1ns
-module axi_stream_insert_header_tb();
+module axi_stream_insert_header_ckx_tb();
     parameter PERIOD = 10 ;
     parameter DATA_WD = 32 ; 
     parameter DATA_BYTE_WD = DATA_WD / 8 ; 
